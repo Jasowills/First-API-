@@ -15,4 +15,4 @@ Installations
 Getting Started
 You need to have node installed on your system
 You need to have a cloudinary account in order to get an API secret as well as an API key.
-http://localhost//3000
+
